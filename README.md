@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anara&show_icons=true&theme=tokyonight" />
+</p>
 
-<!--
-**7anara/7anara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  I am a backend developer specializing in building high-performance and scalable web applications using <b>Python</b>.
+  I have experience with <b>Django</b> and <b>FastAPI</b> frameworks, RESTful API development, database integration 
+  (<b>PostgreSQL, MySQL</b>) and server-side optimization. 
+  <br><br>
+  My goal is to create reliable and efficient server solutions that provide excellent performance and user experience.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,linux,aws,github,git,postman,graphql,nginx,sqlite" />
+</p>
+
