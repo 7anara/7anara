@@ -28,7 +28,7 @@
   <div align="center">
   <img width="450" src="https://github-readme-stats.vercel.app/api?username=7anara&theme=radical&show_icons=true&hide_border=true&count_private=true" />
   <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=7anara&theme=radical&hide_border=true" />
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7anara&theme=radical&layout=compact" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7anara&theme=radical&layout=compact" />
 </div>
 
 ---
