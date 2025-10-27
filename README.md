@@ -48,10 +48,11 @@
   <a href="https://t.me/7anara" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" />
   </a>
-  <a href="https://wa.me/+996XXXXXXXXX" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
+  <a href="https://www.linkedin.com/in/anara-anarkulova-99a1a9350/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
