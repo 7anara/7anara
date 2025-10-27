@@ -72,6 +72,9 @@
       <br>SQLite
 
 ---
+<br>
+<br>
+
 
 ## 🚀 Projects in Progress  
 ### 🧮 Data & Machine Learning  
@@ -85,6 +88,8 @@
 - 💻 Creating my own **React portfolio site**
 
 ---
+<br>
+<br>
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -97,6 +102,9 @@
 </p>
 
 ---
+<br>
+<br>
+
 
 ## 📫 Connect With Me  
 <p align="center">
