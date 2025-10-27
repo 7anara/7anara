@@ -13,8 +13,9 @@
 
 ### 🧰 Skills & Tools (learning and practicing)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,jupyter,github,git,vscode,linux" /><br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas,sklearn,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,django,fastapi,postgres,numpy,nginx,linux,aws,git,github,vscode" />
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="48" height="48"/>
 </p>
 
 ---
@@ -22,8 +23,9 @@
 ### 🧠 What I’m Focusing On
 - 📊 Data analysis & visualization  
 - 🧮 Machine learning models (classification, regression)  
-- 🧠 Neural networks and deep learning basics  
+- ⚛️ Frontend interfaces (React, JS)   
 - ☁️ Using cloud tools (Google Colab, AWS, etc.)
+
 
 ---
 
@@ -37,13 +39,13 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:anaraanarkulova25@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/7anara">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/anara-anarkulova">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
