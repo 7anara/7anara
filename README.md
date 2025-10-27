@@ -10,32 +10,66 @@
 ---
 
 ## 🧠 Languages & Tools  
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  
-  <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  
-  <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
-  
-  <!-- Data Science -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="60" height="40"/>
-
-  <!-- DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-</p>
+<p align="start">
+<table align="center">
+  <tr>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=python" width="43" height="43" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=django" width="43" height="43" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="43" height="43" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="43" height="43" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=redis" width="43" height="43" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=docker" width="43" height="43" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=linux" width="43" height="43" alt="Linux" />
+      <br>Linux
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=aws" width="43" height="43" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=github" width="43" height="43" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=git" width="43" height="43" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=postman" width="43" height="43" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=graphql" width="43" height="43" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=nginx" width="43" height="43" alt="Nginx" />
+      <br>Nginx
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="43" height="43" alt="SQLite" />
+      <br>SQLite
 
 ---
 
