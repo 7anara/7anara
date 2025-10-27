@@ -13,9 +13,8 @@
 
 ### 🧰 Skills & Tools (learning and practicing)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,django,fastapi,postgres,numpy,nginx,linux,aws,git,github,vscode" />
-  <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python,js,react,django <br>fastapi,postgres,numpy,nginx<br>linux,aws,git,github" />
+
 </p>
 
 ---
