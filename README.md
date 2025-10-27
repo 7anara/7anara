@@ -1,6 +1,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=FF69B4&size=32&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Anara+;Aspiring+AI+%26+ML+Developer" />
 </h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=7anara&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+</p>
 
 
 
@@ -59,8 +62,6 @@
 <p align="center">
   ✨ “Code. Learn. Improve. Repeat.” ✨  
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=7anara&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" />
-</p>
+
 
 
