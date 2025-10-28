@@ -48,7 +48,7 @@
   <a href="https://github.com/7anara" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-7anara-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://t.me/7anara" target="_blank">
+  <a href="https://t.me/anaraII7" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" />
   </a>
   <a href="https://www.linkedin.com/in/anara-anarkulova-99a1a9350/" target="_blank">
