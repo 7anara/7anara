@@ -1,54 +1,123 @@
-<h1 align="center">
-### 🌸  About Me
-- 🌱 I’m currently learning **Python, Machine Learning,Data Analyst and Data Science**
-- 🤖 Interested in **Artificial Intelligence, Deep Learning, and Neural Networks**
-- 🧠 I enjoy building small ML projects to practice what I learn
-- 🎯 My goal: to become an **AI Engineer** who builds smart, data-driven solutions  
----
+<h1 align="center">Hi 👋, I'm Anara</h1>
 
-### 💡 Tech Stack  
+<h3 align="center">AI/ML & Python Backend Developer</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,firebase,git,python,django,postgresql,sqlite,nginx,aws,docker,linux" 
-       width="900" 
-       height="200"
-       style="margin: 10px;" />
+Passionate about building intelligent applications with Artificial Intelligence, Machine Learning, Computer Vision, and modern Python technologies.
 </p>
 
 ---
 
-### 📊MY GitHub Stats  
-  <div align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=7anara&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7anara&theme=radical&layout=compact" />
+## 🚀 About Me
+
+- 💻 AI/ML & Python Backend Developer
+- 🤖 Building AI-powered applications using Machine Learning and Generative AI
+- 🧠 Interested in Computer Vision, RAG, LangChain, and LLM Applications
+- 🔍 Exploring Deep Learning and modern AI architectures
+- 🎯 Goal: Become a professional AI Engineer creating impactful solutions
+- 🌱 Continuously learning through real-world projects and hands-on development
+
+---
+
+## 🛠️ Tech Stack
+
+### AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Machine Learning • Deep Learning • Computer Vision • YOLO • OpenCV • LangChain • RAG • LLMs**
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,sqlite" />
+</p>
+
+**Django • Django REST Framework • FastAPI • JWT • OAuth2 • WebSockets**
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,nginx,aws" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🚶 SaveWalk AI
+
+AI-powered navigation assistant for visually impaired individuals.
+
+**Features**
+- Real-time obstacle detection
+- Voice navigation assistance
+- Offline AI processing
+- Computer Vision with YOLO & OpenCV
+
+**Tech Stack**
+`Python` `YOLO` `OpenCV` `Computer Vision`
+
+---
+
+### 🎓 English Course Platform (LMS)
+
+Microservices-based Learning Management System.
+
+**Features**
+- AI Academic Assistant
+- Real-time Chat (WebSockets)
+- Automated Assessment System
+- JWT Authentication
+
+**Tech Stack**
+`Django` `DRF` `PostgreSQL` `OAuth2` `WebSockets`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=7anara&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7anara&layout=compact&theme=radical&hide_border=true"/>
+
 </div>
 
 ---
 
-### ✨ Featured Projects  
-<p align="center">
-  🌟 <em>More projects coming soon... stay tuned!</em>  
-</p>
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=7anara&theme=radical&hide_border=true"/>
+
+</div>
 
 ---
 
-### 📫 Connect with Me  
+## 📫 Connect With Me
+
 <p align="center">
-  <a href="https://github.com/7anara" target="_blank">
+  <a href="https://github.com/7anara">
     <img src="https://img.shields.io/badge/GitHub-7anara-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://t.me/anaraII7" target="_blank">
+
+  <a href="https://t.me/anara_dev">
     <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" />
   </a>
-  <a href="https://www.linkedin.com/in/anara-anarkulova-99a1a9350/" target="_blank">
+
+  <a href="https://www.linkedin.com/in/anara-anarkulova-99a1a9350/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-
 ---
 
 <p align="center">
-  ✨ “Code. Learn. Improve. Repeat.” ✨  
+✨ <b>Building AI. Solving Problems. Growing Every Day.</b> ✨
 </p>
 
 
