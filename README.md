@@ -1,124 +1,207 @@
 <h1 align="center">Hi 👋, I'm Anara</h1>
 
-<h3 align="center">AI/ML & Python Backend Developer</h3>
+<h3 align="center">
+AI/LLM Engineer • Python Backend Developer
+</h3>
 
 <p align="center">
-Passionate about building intelligent applications with Artificial Intelligence, Machine Learning, Computer Vision, and modern Python technologies.
+Building AI-powered applications with Python, FastAPI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and modern backend technologies.
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 AI/ML & Python Backend Developer
-- 🤖 Building AI-powered applications using Machine Learning and Generative AI
-- 🧠 Interested in Computer Vision, RAG, LangChain, and LLM Applications
-- 🔍 Exploring Deep Learning and modern AI architectures
-- 🎯 Goal: Become a professional AI Engineer creating impactful solutions
-- 🌱 Continuously learning through real-world projects and hands-on development
+I am passionate about building intelligent applications that combine Artificial Intelligence with scalable backend systems.
+
+Currently, I focus on developing AI Assistants, Retrieval-Augmented Generation (RAG) pipelines, REST APIs, and production-ready backend services using Python.
+
+### Areas of Interest
+
+- 🤖 AI Assistants
+- 🧠 Large Language Models (LLMs)
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ Python Backend Development
+- 👁️ Computer Vision
+- 🧩 Machine Learning & Deep Learning
+- 🏗️ Microservices Architecture
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
+
+### Programming Language
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 ### AI / Machine Learning
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=pytorch" />
 </p>
 
-**Machine Learning • Deep Learning • Computer Vision • YOLO • OpenCV • LangChain • RAG • LLMs**
+Machine Learning • Deep Learning • LLMs • RAG • Dify • LangChain • YOLO • OpenCV
+
+---
 
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,postgresql,sqlite" />
 </p>
 
-**Django • Django REST Framework • FastAPI • JWT • OAuth2 • WebSockets**
+FastAPI • Django • Django REST Framework • REST API • PostgreSQL • SQLite • JWT • OAuth2 • WebSockets • Microservices
+
+---
 
 ### DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,nginx,aws" />
+<img src="https://skillicons.dev/icons?i=git,docker,linux,nginx,aws" />
 </p>
 
----
-
-## 🌟 Featured Projects
-
-### 🚶 SaveWalk AI
-
-AI-powered navigation assistant for visually impaired individuals.
-
-**Features**
-- Real-time obstacle detection
-- Voice navigation assistance
-- Offline AI processing
-- Computer Vision with YOLO & OpenCV
-
-**Tech Stack**
-`Python` `YOLO` `OpenCV` `Computer Vision`
+Git • Docker • Linux • Nginx • AWS
 
 ---
 
-### 🎓 English Course Platform (LMS)
+# 💼 Experience
 
-Microservices-based Learning Management System.
+### AI/LLM Engineer Intern
 
-**Features**
-- AI Academic Assistant
-- Real-time Chat (WebSockets)
-- Automated Assessment System
-- JWT Authentication
+Currently working on production-ready AI applications.
 
-**Tech Stack**
-`Django` `DRF` `PostgreSQL` `OAuth2` `WebSockets`
+Highlights:
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=7anara&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7anara&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
+- Developed AI Assistants powered by Large Language Models (LLMs)
+- Built Retrieval-Augmented Generation (RAG) pipelines
+- Developed scalable backend APIs using FastAPI
+- Designed PostgreSQL-based backend systems
+- Integrated AI workflows using Dify
+- Collaborated on real-world AI projects
 
 ---
 
-## 🔥 GitHub Streak
+# 🚀 Featured Projects
 
-<div align="center">
+## 🌾 AgroAI Assistant (Commercial Project)
 
-<img src="https://streak-stats.demolab.com?user=7anara&theme=radical&hide_border=true"/>
+AI Assistant designed for agronomists and farmers.
 
-</div>
+### Highlights
+
+- Developed an AI Assistant using Dify and Large Language Models.
+- Implemented Retrieval-Augmented Generation (RAG) for agriculture-specific knowledge retrieval.
+- Built backend APIs using FastAPI.
+- Designed PostgreSQL database integration.
+- Integrated AI workflows for context-aware recommendations.
+
+### Tech Stack
+
+`Python`
+`FastAPI`
+`Dify`
+`LLMs`
+`RAG`
+`PostgreSQL`
+
+🔗 Repository: *Private Repository*
 
 ---
 
-## 📫 Connect With Me
+## 🎓 English Course Platform
+
+Learning Management System built with Microservices.
+
+### Highlights
+
+- Developed backend services using FastAPI and Django.
+- Implemented secure authentication using JWT and OAuth2.
+- Built real-time chat using WebSockets.
+- Developed REST APIs for user and course management.
+- Worked within a Microservices Architecture.
+
+### Tech Stack
+
+`Python`
+`FastAPI`
+`Django`
+`PostgreSQL`
+`JWT`
+`OAuth2`
+`WebSockets`
+`Microservices`
+
+🔗 Repository: *Private Repository*
+
+---
+
+# 📚 Currently Learning
+
+- Advanced LLM Engineering
+- AI Agents
+- MCP (Model Context Protocol)
+- Multi-Agent Systems
+- Deep Learning
+- AWS
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/7anara">
-    <img src="https://img.shields.io/badge/GitHub-7anara-black?style=for-the-badge&logo=github" />
-  </a>
 
-  <a href="https://t.me/anara_dev">
-    <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" />
-  </a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=7anara&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <a href="https://www.linkedin.com/in/anara-anarkulova-99a1a9350/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7anara&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
+# 🔥 GitHub Streak
+
 <p align="center">
-✨ <b>Building AI. Solving Problems. Growing Every Day.</b> ✨
+
+<img src="https://streak-stats.demolab.com?user=7anara&theme=tokyonight&hide_border=true"/>
+
 </p>
 
+---
 
+# 📈 Contribution Graph
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=7anara&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/7anara">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anara-anarkulova-99a1a9350/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://t.me/anara_dev">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+🚀 Building AI Solutions with Python
+
+</h3>
