@@ -156,7 +156,7 @@ Learning Management System based on Microservices.
 
 ---
 
-# 🤝 Connect With Me
+#  Connect
 
 <p align="center">
 
