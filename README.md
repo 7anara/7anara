@@ -5,58 +5,56 @@ AI/LLM Engineer • Python Backend Developer
 </h3>
 
 <p align="center">
-Building AI-powered applications with Python, FastAPI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and modern backend technologies.
+Building intelligent AI applications and scalable backend systems with Python, FastAPI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=7anara&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I am passionate about building intelligent applications that combine Artificial Intelligence with scalable backend systems.
-
-Currently, I focus on developing AI Assistants, Retrieval-Augmented Generation (RAG) pipelines, REST APIs, and production-ready backend services using Python.
-
-### Areas of Interest
-
-- 🤖 AI Assistants
-- 🧠 Large Language Models (LLMs)
-- 📚 Retrieval-Augmented Generation (RAG)
-- ⚡ Python Backend Development
-- 👁️ Computer Vision
-- 🧩 Machine Learning & Deep Learning
-- 🏗️ Microservices Architecture
+- 💻 AI/LLM Engineer with hands-on experience building AI-powered applications.
+- 🤖 Developing AI Assistants using LLMs, Dify, and Retrieval-Augmented Generation (RAG).
+- ⚡ Building scalable backend systems with FastAPI and Django.
+- 🌱 Passionate about Machine Learning, Computer Vision, and Backend Development.
+- 🚀 Continuously improving through commercial and real-world projects.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Programming Language
+## Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### AI / Machine Learning
+---
+
+## AI / Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch" />
 </p>
 
-Machine Learning • Deep Learning • LLMs • RAG • Dify • LangChain • YOLO • OpenCV
+Machine Learning • Deep Learning • LLM • RAG • Dify • YOLO • OpenCV
 
 ---
 
-### Backend Development
+## Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,django,postgresql,sqlite" />
 </p>
 
-FastAPI • Django • Django REST Framework • REST API • PostgreSQL • SQLite • JWT • OAuth2 • WebSockets • Microservices
+FastAPI • Django • Django REST Framework • REST API • JWT • OAuth2 • WebSockets • Microservices
 
 ---
 
-### DevOps & Tools
+## DevOps & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,docker,linux,nginx,aws" />
@@ -68,36 +66,36 @@ Git • Docker • Linux • Nginx • AWS
 
 # 💼 Experience
 
-### AI/LLM Engineer Intern
+## AI/LLM Engineer Intern
 
-Currently working on production-ready AI applications.
+Currently developing production-ready AI applications.
 
-Highlights:
+### Responsibilities
 
-- Developed AI Assistants powered by Large Language Models (LLMs)
-- Built Retrieval-Augmented Generation (RAG) pipelines
-- Developed scalable backend APIs using FastAPI
-- Designed PostgreSQL-based backend systems
-- Integrated AI workflows using Dify
-- Collaborated on real-world AI projects
+- Developing AI Assistants powered by Large Language Models (LLMs)
+- Building Retrieval-Augmented Generation (RAG) pipelines
+- Developing scalable backend APIs with FastAPI
+- Integrating PostgreSQL databases
+- Building AI workflows using Dify
+- Collaborating on commercial AI solutions
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌾 AgroAI Assistant (Commercial Project)
+## 🌾 AgroAI Assistant *(Commercial Project)*
 
 AI Assistant designed for agronomists and farmers.
 
 ### Highlights
 
 - Developed an AI Assistant using Dify and Large Language Models.
-- Implemented Retrieval-Augmented Generation (RAG) for agriculture-specific knowledge retrieval.
-- Built backend APIs using FastAPI.
-- Designed PostgreSQL database integration.
-- Integrated AI workflows for context-aware recommendations.
+- Implemented Retrieval-Augmented Generation (RAG).
+- Built FastAPI backend services.
+- Integrated PostgreSQL database.
+- Delivered context-aware responses for agriculture-related questions.
 
-### Tech Stack
+### Technologies
 
 `Python`
 `FastAPI`
@@ -106,23 +104,23 @@ AI Assistant designed for agronomists and farmers.
 `RAG`
 `PostgreSQL`
 
-🔗 Repository: *Private Repository*
+🔒 Repository: Private
 
 ---
 
 ## 🎓 English Course Platform
 
-Learning Management System built with Microservices.
+Learning Management System based on Microservices.
 
 ### Highlights
 
 - Developed backend services using FastAPI and Django.
-- Implemented secure authentication using JWT and OAuth2.
-- Built real-time chat using WebSockets.
-- Developed REST APIs for user and course management.
+- Built secure authentication with JWT and OAuth2.
+- Implemented WebSocket-based real-time chat.
+- Developed REST APIs.
 - Worked within a Microservices Architecture.
 
-### Tech Stack
+### Technologies
 
 `Python`
 `FastAPI`
@@ -133,7 +131,7 @@ Learning Management System built with Microservices.
 `WebSockets`
 `Microservices`
 
-🔗 Repository: *Private Repository*
+🔒 Repository: Private
 
 ---
 
@@ -144,43 +142,21 @@ Learning Management System built with Microservices.
 - MCP (Model Context Protocol)
 - Multi-Agent Systems
 - Deep Learning
-- AWS
+- AWS Cloud
 
 ---
 
-# 📊 GitHub Stats
+# 📌 Core Technologies
 
-<p align="center">
+<p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=7anara&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7anara&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgresql,docker,git,linux,aws"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=7anara&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=7anara&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
 
