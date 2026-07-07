@@ -8,9 +8,7 @@ AI/LLM Engineer • Python Backend Developer
 Building intelligent AI applications and scalable backend systems with Python, FastAPI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=7anara&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+
 
 ---
 
