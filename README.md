@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anara</h1>
+<h1 align="center">Hi I'm Anara</h1>
 
 <h3 align="center">
 AI/LLM Engineer • Python Backend Developer
@@ -81,7 +81,7 @@ Currently developing production-ready AI applications.
 
 # 🚀 Featured Projects
 
-## 🌾 AgroAI Assistant *(Commercial Project)*
+## 🌾 AgroAI Assistant
 
 AI Assistant designed for agronomists and farmers.
 
