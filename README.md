@@ -23,11 +23,11 @@ Building intelligent AI applications, LLM assistants, and scalable backend syste
 
 ## AI & Machine Learning
 <p>
-<img src="https://skillicons.dev/icons?i=py" alt="Python"/>
-<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"/>
+<img src="https://skillicons.dev/icons?i=py,pytorch" alt="AI Stack"/>
 </p>
-**Core:** PyTorch • Scikit-learn • Pandas • OpenCV • YOLO • MediaPipe • Roboflow • Hugging Face  
-**AI Engineering:** Dify • LangChain • LangGraph • RAG • LLMs (Gemini, OpenAI) • AI Agents • aiogram
+
+- **Core:** PyTorch • Scikit-learn • Pandas • OpenCV • YOLO • MediaPipe • Roboflow • Hugging Face
+- **AI Engineering:** Dify • LangChain • LangGraph • RAG • LLMs (Gemini, OpenAI) • AI Agents • aiogram
 
 ---
 
@@ -35,8 +35,9 @@ Building intelligent AI applications, LLM assistants, and scalable backend syste
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,django,postgresql,redis,sqlite" alt="Backend Stack"/>
 </p>
-**Frameworks & APIs:** FastAPI • Django • Django REST Framework (DRF) • REST API • WebSockets • Microservices  
-**Databases & ORM:** PostgreSQL • Redis • SQLite • SQLAlchemy • Django ORM
+
+- **Frameworks & APIs:** FastAPI • Django • Django REST Framework (DRF) • REST API • WebSockets • Microservices
+- **Databases & ORM:** PostgreSQL • Redis • SQLite • SQLAlchemy • Django ORM
 
 ---
 
@@ -44,7 +45,8 @@ Building intelligent AI applications, LLM assistants, and scalable backend syste
 <p>
 <img src="https://skillicons.dev/icons?i=git,docker,linux,nginx,aws" alt="DevOps Stack"/>
 </p>
-Git • Docker • Docker Compose • Linux • Nginx • AWS • Postman • Google Colab
+
+- **Tools:** Git • Docker • Docker Compose • Linux • Nginx • AWS • Postman • Google Colab
 
 ---
 
@@ -54,7 +56,7 @@ Git • Docker • Docker Compose • Linux • Nginx • AWS • Postman • Go
 - Developed production-ready LLM assistants and RAG pipelines using **Dify**.
 - Integrated **Gemini** and **OpenAI** APIs to generate context-aware responses based on knowledge bases.
 - Designed and built backend services for AI applications using **FastAPI**, **PostgreSQL**, and **WebSockets** for real-time data exchange.
-- Collaborated closely with cross-functional teams to integrate AI features into commercial products (including educational platforms and automated tracking systems).
+- Collaborated closely with cross-functional teams to integrate AI features into commercial products.
 
 ---
 
